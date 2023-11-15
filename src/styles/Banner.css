@@ -1,0 +1,11 @@
+.lmj-banner {
+    color: white;
+    text-align: right;
+    padding: 23px;
+    border-bottom: solid 3px black;
+    background-color: green;
+}
+
+.lmj-title {
+    font-size: xx-large;
+}
